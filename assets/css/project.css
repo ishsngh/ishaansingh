@@ -16,8 +16,8 @@ html[data-theme = 'dark']
   --shadow1: rgba(128, 122, 122, 0.233);
   --shadow2: rgba(231, 216, 216, 0.007);
 
-  --neu-light: #282828;
-  --neu-dark: #080808;
+  --neu-light: #fff;
+  --neu-dark: #fff;
   --neu-color: white;
   --neu-icon: whitesmoke;
 }
@@ -282,6 +282,10 @@ input[type="text"]{
   color: #fff;
 }
 
+.text-dark {
+    color: white;
+}
+
 
 /*social icons*/
 
@@ -306,6 +310,14 @@ ul{
   flex-direction: column;
   align-items: center;
   margin-bottom: 5%;
+}
+
+.heading h2 {
+	color: #fff;
+}
+
+.heading p {
+	color: #fff;
 }
 
 .page-content {
