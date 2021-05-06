@@ -84,7 +84,7 @@ html[data-theme="light"] {
   display: flex;
   flex-flow: row wrap;
   padding: 18px;
-  color: var(--text);
+  color: #000000;
   background-color: #fff;
   border-radius: 0 13px 13px 0;
 }
