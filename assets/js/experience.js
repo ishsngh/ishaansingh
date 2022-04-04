@@ -7,7 +7,7 @@ const exp = [
     title: "Job",
     cardImage: "assets/images/experience-page/delhivery.png",
     place: "Delhivery Ltd.",
-    time: "(2 Aug, 21 - Present)",
+    time: "(2nd Aug, 21 - Present)",
     desp:"<li>Responsible for the overall Distribution Centre’s operations and accountable for the upkeep of the facility.</li><li> Managing the day-to-day running of the DistributionCentre along with managing and administering the Field Executives within the DC with support from service Agents.</i>"
   },
   {
