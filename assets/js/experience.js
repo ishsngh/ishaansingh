@@ -4,6 +4,13 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Job",
+    cardImage: "assets/images/experience-page/delhivery.png",
+    place: "Delhivery Ltd.",
+    time: "(2 Aug, 21 - Present)",
+    desp:"<li>Responsible for the overall Distribution Centre’s operations and accountable for the upkeep of the facility.</li><li> Managing the day-to-day running of the DistributionCentre along with managing and administering the Field Executives within the DC with support from service Agents.</i>"
+  },
+  {
     title: "Trainee",
     cardImage: "assets/images/experience-page/ssit.png",
     place: "SSIT Pvt. Ltd, Nagpur ",
@@ -14,7 +21,7 @@ const exp = [
     title: "Intern",
     cardImage: "assets/images/experience-page/tata.png",
     place: "Tata Cummins, Jamshedpur",
-    time: "(June - July, 2019)",
+    time: "(June, 19 - July, 19)",
     desp: "<li>Successfully completed a 1-month internship in Jamshedpur. Understood how the business works in large scale.</li><li> During this period, I worked on the project “BoE Life Cycle with ICEGATE Linkage” using MySQL, PLSQL and Oracle.</li>",
   },
   {
